@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @gadielmaster
+- 👀 I’m interested in learn programmation
+- 🌱 I’m currently learning new langages, python.
+- 💞️ I’m looking to collaborate in everywhere i can
+- 📫 How to reach me: gadielmaster1@gmail.com or gadielmaster1 (on twitter)
